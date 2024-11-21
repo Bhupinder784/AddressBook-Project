@@ -1,0 +1,5 @@
+<script>start("c:\\Users\\PC\\Downloads\\addressbooking-backend\\src\\main\\resources\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("static","static",1,0,"0 B",1732182893,"11/21/24, 3:24:53 PM");</script>
+<script>addRow("templates","templates",1,0,"0 B",1732182893,"11/21/24, 3:24:53 PM");</script>
+<script>addRow("application.properties","application.properties",0,47,"47 B",1732182893,"11/21/24, 3:24:53 PM");</script>
